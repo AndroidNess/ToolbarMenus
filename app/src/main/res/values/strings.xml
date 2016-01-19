@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ToolbarMenus</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_camera">Camera</string>
+    <string name="action_about">About us</string>
+</resources>
